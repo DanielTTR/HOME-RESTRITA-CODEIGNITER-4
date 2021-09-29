@@ -1,4 +1,4 @@
-# para acessar basta utilizar a seguinte URL http://localhost:8080/admin/usuarios
+# para acessar basta utilizar a seguinte URL no seu navegador ja com o arquivo .app configurado e o xamp ou wamp iniciado http://localhost:8080/admin/usuarios
 
 # CodeIgniter 4 Framework
 
