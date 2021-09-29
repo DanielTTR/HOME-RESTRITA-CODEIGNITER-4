@@ -1,3 +1,5 @@
+# para acessar basta utilizar a seguinte URL http://localhost:8080/admin/usuarios
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
